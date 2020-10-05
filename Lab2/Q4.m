@@ -22,4 +22,3 @@ for i =1:n
    d=d*U(i,i);
 end
 end
-
